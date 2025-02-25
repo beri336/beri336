@@ -5,7 +5,7 @@
 ### About Me
 
 💡 **Who am I?**
-I'm a passionate software developer and studying B.Sc. Computer Science. Currently working on **innovative projects** like GitBackupTool-Pro and CodeCraft!
+I'm a passionate software developer and studying B.Sc. Computer Science. Currently working on **innovative projects** like AI-generated Unit Test Generation and CodeCraft!
 
 🌟 **What I enjoy:**
 - Building efficient and scalable software solutions.
@@ -15,19 +15,19 @@ I'm a passionate software developer and studying B.Sc. Computer Science. Current
 
 ## 🚀 Visitor Count
 
-![Hits](https://hits.sh/github.com/beri336.svg?label=Visitor%20Count)
+![Hits](https://hits.sh/github.com/beri336_.svg?label=Visitor%20Count)
 
 <hr>
 
 ## 📁 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=KI-unterstuetzte-Unit-Test-Generierung&theme=radical)](https://github.com/beri336/KI-unterstuetzte-Unit-Test-Generierung)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=KI-unterstuetzte-Unit-Test-Generierung&theme=github_dark_dimmed&cache_seconds=30)](https://github.com/beri336/KI-unterstuetzte-Unit-Test-Generierung)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=GitBackupTool-Pro&theme=radical)](https://github.com/beri336/GitBackupTool-Pro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=GitBackupTool-Pro&theme=github_dark_dimmed&cache_seconds=30)](https://github.com/beri336/GitBackupTool-Pro)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=CodeCraft&theme=radical)](https://github.com/beri336/CodeCraft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=CodeCraft&theme=github_dark_dimmed&cache_seconds=30)](https://github.com/beri336/CodeCraft)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=Time-Tracker&theme=radical)](https://github.com/beri336/Time-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=Time-Tracker&theme=github_dark_dimmed&cache_seconds=30)](https://github.com/beri336/Time-Tracker)
 
 <hr>
 
