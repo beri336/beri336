@@ -21,6 +21,8 @@ I'm a passionate software developer and studying B.Sc. Computer Science. Current
 
 ## 📁 Featured Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=KI-unterstuetzte-Unit-Test-Generierung&theme=radical)](https://github.com/beri336/KI-unterstuetzte-Unit-Test-Generierung)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=GitBackupTool-Pro&theme=radical)](https://github.com/beri336/GitBackupTool-Pro)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beri336&repo=CodeCraft&theme=radical)](https://github.com/beri336/CodeCraft)
