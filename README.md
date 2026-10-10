@@ -60,6 +60,7 @@ focused on AI, Automation and Software Development
 [![Repo](https://img.shields.io/badge/Repo-zeitwerk-0077b6?style=for-the-badge&logo=github)](https://github.com/beri336/zeitwerk) [![Live Demo](https://img.shields.io/badge/Live_Demo-zeitwerk--iota.vercel.app-5a0fc8?style=for-the-badge)](https://zeitwerk-iota.vercel.app)
 
 A modern, privacy-first **time-tracking web app** with a clean, polished UI. It runs fully in your browser, with no backend and no account.
+
 Track time manually or live, get a clear dashboard overview with quick access to your stats, see public holidays by German state, plan in a calendar, visualize data with charts, export in multiple formats, and install it as a PWA.
 
 ![Vue](https://img.shields.io/badge/Vue-3.5-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Language](https://img.shields.io/github/languages/top/beri336/zeitwerk?style=for-the-badge&color=0077b6) ![Last Commit](https://img.shields.io/github/last-commit/beri336/zeitwerk?style=for-the-badge&color=0077b6) ![Code Size](https://img.shields.io/github/languages/code-size/beri336/zeitwerk?style=for-the-badge&color=0077b6)
@@ -78,14 +79,23 @@ Track time manually or live, get a clear dashboard overview with quick access to
 
 Use **Ollama** and **LM Studio** locally on your own machine
 • **Dashboard** with an overview of your chats and projects
+
 • **Chats** with different models, including temporary chats
+
 • **Projects** to organize your chats
+
 • **Ollama Models** to manage Ollama configurations
+
 • **LMS Models** to manage LM Studio configurations
+
 • **Prompts** to generate and save prompts
+
 • **Pseudocode** to turn pseudocode into production-ready source code
+
 • **FAQ** for quick help
+
 • **Archive** to archive your chats
+
 • **Settings** for general preferences
 
 ![Vue](https://img.shields.io/badge/Vue-3.5-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Language](https://img.shields.io/github/languages/top/beri336/locale-ai?style=for-the-badge&color=0077b6) ![Last Commit](https://img.shields.io/github/last-commit/beri336/locale-ai?style=for-the-badge&color=0077b6) ![Code Size](https://img.shields.io/github/languages/code-size/beri336/locale-ai?style=for-the-badge&color=0077b6)
@@ -103,7 +113,9 @@ Use **Ollama** and **LM Studio** locally on your own machine
 [![Repo](https://img.shields.io/badge/Repo-Swit-0077b6?style=for-the-badge&logo=github)](https://github.com/beri336/Swit)
 
 A privacy-first **Git commit helper** for the command line.
+
 It reads your repository changes and suggests a Conventional Commit message using a local LLM via Ollama.
+
 Nothing leaves your machine, and nothing is committed without your confirmation.
 
 ![Swift](https://img.shields.io/badge/Swift-6.0%2B-F05138?style=for-the-badge&logo=swift&logoColor=white) ![Language](https://img.shields.io/github/languages/top/beri336/swit?style=for-the-badge&color=0077b6) ![Last Commit](https://img.shields.io/github/last-commit/beri336/swit?style=for-the-badge&color=0077b6) ![Code Size](https://img.shields.io/github/languages/code-size/beri336/swit?style=for-the-badge&color=0077b6)
@@ -121,7 +133,8 @@ Nothing leaves your machine, and nothing is committed without your confirmation.
 [![Repo](https://img.shields.io/badge/Repo-KI--Unit--Test--Generierung-0077b6?style=for-the-badge&logo=github)](https://github.com/beri336/KI-unterstuetzte-Unit-Test-Generierung)
 
 A research prototype that generates unit tests for Python codebases with a local LLM via *Ollama*.
-It examines code coverage, test quality, and where AI-generated tests fall short of manually written suites.
+
+It examines code coverage, test quality and where AI-generated tests fall short of manually written suites.
 
 ![Last Commit](https://img.shields.io/github/last-commit/beri336/KI-unterstuetzte-Unit-Test-Generierung?style=for-the-badge&color=0077b6) ![Language](https://img.shields.io/github/languages/top/beri336/KI-unterstuetzte-Unit-Test-Generierung?style=for-the-badge&color=0077b6) ![Last Commit](https://img.shields.io/github/last-commit/beri336/KI-unterstuetzte-Unit-Test-Generierung?style=for-the-badge&color=0077b6) ![Code Size](https://img.shields.io/github/languages/code-size/beri336/KI-unterstuetzte-Unit-Test-Generierung?style=for-the-badge&color=0077b6)
 
@@ -154,6 +167,7 @@ An automated **security scanner** that analyzes source code for risks and vulner
 [![Repo](https://img.shields.io/badge/Repo-AI--Dev--Assistant-0077b6?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/berkants/ai-dev-assistant)
 
 An AI-powered **dev assistant** that analyzes code, supports reviews and automates routine tasks.
+
 Describe what you want in plain language and it translates your request into concrete refactoring suggestions and actions.
 
 ![LLM](https://img.shields.io/badge/LLM-assisted-000000?style=for-the-badge) ![Last Commit](https://img.shields.io/bitbucket/last-commit/berkants/ai-dev-assistant/main?style=for-the-badge&color=0077b6)
@@ -171,6 +185,7 @@ Describe what you want in plain language and it translates your request into con
 [![Repo](https://img.shields.io/badge/Repo-AI--Plugin--Collection-0077b6?style=for-the-badge&logo=github)](https://github.com/beri336/AI-Plugin-Collection)
 
 A **Python wrapper for Ollama** with reusable plugins for chat, generate, embeddings and model management.
+
 Minimal boilerplate, fully local.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -191,6 +206,7 @@ Minimal boilerplate, fully local.
 
 A Flask-based **web app** that turns code into polished, syntax-highlighted screenshots.
 Powered by Pygments and Playwright.
+
 Perfect for social media, docs, and presentations.
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Pygments](https://img.shields.io/badge/Pygments-syntax%20highlighting-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
